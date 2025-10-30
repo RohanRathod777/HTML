@@ -112,4 +112,3 @@ This project is licensed under the **MIT License** 📝. See [`LICENSE`](LICENSE
 Made with ❤️ by **Rohan Rathod**
 “Write good HTML. Build strong web foundations.” 🏗️
 
-```
